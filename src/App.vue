@@ -8,7 +8,7 @@
           </ul>
           <form class="me-auto" target="_self">
             <div class="d-flex align-items-center"><label class="form-label d-flex mb-0" for="search-field"></label></div>
-          </form><span class="navbar-text"></span><a class="btn btn-light action-button" role="button" href="#">Github</a>
+          </form><span class="navbar-text"></span><a class="btn btn-light action-button" role="button" href="https://github.com/Pronicio/img-compressor">Github</a>
         </div>
       </div>
     </nav>
