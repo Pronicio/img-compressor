@@ -1,24 +1,26 @@
-# Image compressor :
+# Image compressor.  
+Just a simple image compression site made with Vue.js !  
+💡 View demo: https://img-compressor.pages.dev/
 
-## Project setup
+## 🛠 Project setup :
+Installing the dependencies:
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+Launch the project:
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+Launching the project for production:
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 💎 Credits :
 
-### Customize configuration
+[Boostrap](https://getbootstrap.com/)  
+[dropzone-vue](https://www.npmjs.com/package/dropzone-vue)  
+[browser-image-compression](https://www.npmjs.com/package/browser-image-compression).
+
+### 🧬 Customize configuration :
 See [Configuration Reference](https://cli.vuejs.org/config/).
